@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishidevpv&label=Profile%20views&color=0e75b6&style=flat" alt="rishidevpv" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishiii23" target="blank"><img src="https://img.shields.io/twitter/follow/rishiii23?logo=twitter&style=for-the-badge" alt="rishiii23" /></a> </p>
-
 - 🔭 I’m currently working on **AttorneyGPT**
 
 - 👯 I’m looking to collaborate on **Gen AI Applications**
